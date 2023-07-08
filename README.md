@@ -45,6 +45,9 @@ if printCount >= 400 { break }：当达到最大打印次数（400次）时，�
 nextCh <- struct{}{}：向下一个通道发送一个值，以允许下一个goroutine继续进行打印。
 
 
+![Example Image]([https://github.com/username/repository/raw/main/images/example.png](https://github.com/chenjianxu75/first_work/blob/main/%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E7%A4%BA%E4%BE%8B%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-07-08%20152338.png))
+
+
 - 3.Go语言的优缺点和流行原因（Go Language Advantages and Popularity）该项目解释了Go语言的优点、大厂后台为何选择使用Go进行重构以及Go语言近年来的流行原因。 它提供以下内容：
 
 > Go语言的优点：简洁易学，并发性能，高性能，强大标准库，强类型和安全性.
