@@ -97,4 +97,6 @@ Go语言近年来的流行原因：云原生和微服务，开发者的接受度
 通过conn.Read读取指定长度的字节，将其存储到responseBytes中，得到回复消息的实际内容。
 将responseBytes转换为字符串，即为服务器端的回复消息。
 
+![Example Image](https://github.com/chenjianxu75/first_work/blob/main/%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E7%A4%BA%E4%BE%8B%E6%88%AA%E5%9B%BE/task_4.png)
+![Example Image](https://github.com/chenjianxu75/first_work/blob/main/%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E7%A4%BA%E4%BE%8B%E6%88%AA%E5%9B%BE/task_4(2).png)
 该代码实现了一个简单的客户端和服务器端的通信过程。客户端可以向服务器端发送消息，服务器端接收并处理消息，并返回回复消息给客户端。展示了基本的TCP Socket通信的实现方式。
